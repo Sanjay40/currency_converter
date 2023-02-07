@@ -1,7 +1,7 @@
 # currency_converter
 
 A new Flutter project.
-
+![currency-removebg-preview](https://user-images.githubusercontent.com/115440899/217237464-1b48463a-4d4d-41c1-890a-602e5ae52e61.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
